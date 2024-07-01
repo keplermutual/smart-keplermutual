@@ -13,7 +13,7 @@
 
 ## Audits
 
-- [Check the docs for a full list of security audits](https://keplermutual.net/)
+Kepler Mutual DeFi The security of the protocol is our top priority, which is why our code has been reviewed by industry-leading auditing agencies. Our team collaborates with Immunefi to manage a vulnerability reward program that encourages responsible vulnerability disclosure.
 
 ## Bug Bounty
 
